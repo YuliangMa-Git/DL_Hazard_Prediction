@@ -9,7 +9,7 @@ Yuliang Ma*, Zilin Jin, Qi Liu, Ilshat Mamaev, and Andrey Morozov
 ## Abstract
 
 ## Video
-
+[\[video\]](https://youtu.be/wVkbuf_aoXI) 
 ## Dataset
 [\[dataset\]](https://www.kaggle.com/datasets/yuliangma/dl-hazard-prediction) 
 ## Citation
