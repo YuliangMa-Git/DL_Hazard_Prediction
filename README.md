@@ -11,6 +11,6 @@ Yuliang Ma*, Zilin Jin, Qi Liu, Ilshat Mamaev, and Andrey Morozov
 ## Video
 
 ## Dataset
-[\[dataset\]]([https://www.kaggle.com/datasets/yuliangma/proactive-failure-prediction](https://www.kaggle.com/datasets/yuliangma/dl-hazard-prediction)) 
+[\[dataset\]](https://www.kaggle.com/datasets/yuliangma/dl-hazard-prediction) 
 
 ## Citation
