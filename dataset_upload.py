@@ -100,7 +100,7 @@ class DatasetProcessor:
                 targets_list.append(filtered_labels)
 
             except Exception as e:
-                print(f"处理 {subfolder} 失败: {e}")
+                print(f"deal {subfolder} fails: {e}")
 
         # Stack data
         camera_values = np.vstack(camera_values_list)
