@@ -11,8 +11,8 @@ def test_all(args):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print(f"Testing on: {device}")
 
-    # model = HazardPredictionNN(num_classes=1).to(device)
-    model = HazardPredictionImageNN(num_classes=1).to(device)
+    model = HazardPredictionNN(num_classes=1).to(device)
+    # model = HazardPredictionImageNN(num_classes=1).to(device)
 
     model_path = './best_model_epoch.pth'
 
