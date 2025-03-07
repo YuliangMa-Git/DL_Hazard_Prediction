@@ -7,7 +7,7 @@ Yuliang Ma*, Zilin Jin, Qi Liu, Ilshat Mamaev, and Andrey Morozov
 <img src="/source/framework.png" height="480" />
 
 ## Abstract
-
+We introduce a proactive hazard prediction method for human-robot collaboration scenarios when the robot has sensor malfunctions.
 ## Video
 [\[video\]](https://youtu.be/wVkbuf_aoXI) 
 ## Dataset
