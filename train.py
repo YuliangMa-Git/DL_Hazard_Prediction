@@ -69,8 +69,8 @@ def main(args):
         pin_memory=True
     )
 
-    # model = HazardPredictionNN(num_classes=1).to(device) # Choose the model
-    model = HazardPredictionImageNN(num_classes=1).to(device)
+    model = HazardPredictionNN(num_classes=1).to(device) # Choose the model
+    # model = HazardPredictionImageNN(num_classes=1).to(device)
 
     optimizer = torch.optim.Adam(
         model.parameters(),
@@ -101,8 +101,8 @@ def main(args):
             depth_images = depth_images.to(device)
             labels = labels.to(device)
 
-            # outputs = model(camera, joints, waypoints) # Up to the model
-            outputs = model(rgb_images, depth_images, joints, waypoints)
+            outputs = model(camera, joints, waypoints) # Up to the model
+            # outputs = model(rgb_images, depth_images, joints, waypoints)
             loss = loss_fn(outputs, labels)
 
             optimizer.zero_grad()
