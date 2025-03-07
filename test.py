@@ -6,6 +6,7 @@ from network import HazardPredictionNN, HazardPredictionImageNN
 from test_dataset_upload import TestDatasetProcessor
 from utils import model_evaluation, get_F1_measure
 
+
 def test_all(args):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print(f"Testing on: {device}")
