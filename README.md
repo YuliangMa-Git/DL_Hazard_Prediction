@@ -3,8 +3,8 @@ Yuliang Ma*, Zilin Jin, Qi Liu, Ilshat Mamaev, and Andrey Morozov
 
 {yuliang.ma@ias.uni-stuttgart.de}
 
-<img src="/source/Hazard_demo.png" height="300" />
-<img src="/source/framework.png" height="480" />
+<img src="/source/Hazard_demo.png" height="200" />
+<img src="/source/framework.png" height="360" />
 
 ## Abstract
 We introduce a proactive hazard prediction method for human-robot collaboration scenarios when the robot has sensor malfunctions.
