@@ -3,7 +3,7 @@ Yuliang Ma*, Zilin Jin, Qi Liu, Ilshat Mamaev, and Andrey Morozov
 
 {yuliang.ma@ias.uni-stuttgart.de}
 
-<img src="/source/Hazard_demo.png" height="250" />
+<img src="/source/Hazard_demo.png" height="220" />
 <img src="/source/framework.png" height="360" />
 
 ## Abstract
