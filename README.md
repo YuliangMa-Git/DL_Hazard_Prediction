@@ -9,7 +9,7 @@ This work has been accepted for publication in the Proceedings of the 2025 IEEE/
 <img src="/source/framework.png" height="360" />
 
 ## Abstract
-Safety is a critical concern in human-robot collaboration (HRC). As collaborative robots take on increasingly complex tasks in human environments, their systems have become more sophisticated through the integration of multimodal sensors, including force-torque sensors, cameras, LiDARs, and IMUs. However, existing studies on HRC safety primarily focus on ensuring safety under normal operating conditions, overlooking scenarios where internal sensor faults occur.\n
+Safety is a critical concern in human-robot collaboration (HRC). As collaborative robots take on increasingly complex tasks in human environments, their systems have become more sophisticated through the integration of multimodal sensors, including force-torque sensors, cameras, LiDARs, and IMUs. However, existing studies on HRC safety primarily focus on ensuring safety under normal operating conditions, overlooking scenarios where internal sensor faults occur.
 
 While anomaly detection modules can help identify sensor errors and mitigate hazards, two key challenges remain: (1) no anomaly detector is flawless, and (2) not all sensor malfunctions directly threaten human safety. Relying solely on anomaly detection can lead to missed errors or excessive false alarms.
 
