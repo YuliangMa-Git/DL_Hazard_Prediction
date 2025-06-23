@@ -13,3 +13,4 @@ We introduce a proactive hazard prediction method for human-robot collaboration 
 ## Dataset
 [\[dataset\]](https://www.kaggle.com/datasets/yuliangma/dl-hazard-prediction) 
 ## Citation
+This work has been accepted for publication in the Proceedings of the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025).
