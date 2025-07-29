@@ -14,7 +14,7 @@ While anomaly detection modules can help identify sensor errors and mitigate haz
 To enhance safety in real-world HRC applications, this paper introduces a deep learning-based method that proactively predicts hazards following the detection of sensory anomalies. We simulate two common types of faults—bias and noise—affecting joint sensors and monitor abnormal manipulator behaviors that could pose risks in fenceless HRC environments. A dataset of 2,400 real-world samples is collected to train the proposed hazard prediction model.  
 The approach leverages multimodal inputs, including RGB-D images, human pose, joint states, and planned robot paths, to assess whether sensor malfunctions could lead to hazardous events. Experimental results show that the proposed method outperforms state-of-the-art models, while offering faster inference speed. Additionally, cross-scenario testing confirms its strong generalization capabilities.
 ## Video
-[\[video\]](https://youtu.be/wVkbuf_aoXI) 
+[\[video\]](https://youtu.be/LUVwwiDy4YU) 
 ## Dataset
 [\[dataset\]](https://www.kaggle.com/datasets/yuliangma/dl-hazard-prediction) 
 ## Citation
